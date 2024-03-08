@@ -1,5 +1,5 @@
 <h1>Hello! I'm Quinn!</h1>
-<h3>👾 Cybersecurity Practitioner, Student, and Lover 🔐</h3>
+<h3>👾 Cybersecurity Practitioner and Student 🔐</h3>
 
 <h2>🛡️ Cybersecurity Projects:</h2>
 
