@@ -4,7 +4,7 @@
 <h2>🛡️ Cybersecurity Projects:</h2>
 
 - <b>NCAE Practice Lab</b>
-  - [Creating the Network Environment](https://github.com/quinnanderson1/LABNAMEHERE)
+  - [Creating the Network Environment](https://github.com/quinnanderson1/NCAE_Lab_Creation)
 
 
 <h2>📜 Certifications</h2>
