@@ -4,7 +4,7 @@
 <h2>🛡️ Cybersecurity Projects:</h2>
 
 - <b>Practice Competition Lab</b>
-  - [Creating the Network Environment](https://github.com/quinnanderson1/NCAE_Lab_Creation)
+  - [Creating the Network Environment](https://github.com/quinnanderson1/Competition_Lab_Creation)
 
 
 <h2>📜 Certifications</h2>
