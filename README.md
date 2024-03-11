@@ -3,7 +3,7 @@
 
 <h2>🛡️ Cybersecurity Projects:</h2>
 
-- <b>NCAE Practice Lab</b>
+- <b>Practice Competition Lab</b>
   - [Creating the Network Environment](https://github.com/quinnanderson1/NCAE_Lab_Creation)
 
 
@@ -16,5 +16,9 @@
 - ISC(2) Associate (SSCP)
 - ITIL v4 Foundations
 - LPI Linux Essentials
+
+<h2>⚔️ Competitions</h2>
+
+- CyberQuest SP2024
 
 <h2>🤝 Connect with me on <a href="https://www.linkedin.com/in/andersoq/">LinkedIn</a>!</h2>
