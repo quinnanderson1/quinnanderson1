@@ -5,6 +5,7 @@
 
 - <b>Practice Competition Lab</b>
   - [Creating the Network Environment](https://github.com/quinnanderson1/Competition_Lab_Creation)
+  - [Creating an HTTP Server (Apache2)](https://github.com/quinnanderson1/Competition_Lab_HTTP)
 
 
 <h2>📜 Certifications</h2>
