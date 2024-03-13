@@ -21,5 +21,6 @@
 <h2>⚔️ Competitions</h2>
 
 - CyberQuest SP2024
+- NCAE-C SP2024, Team Captain
 
 <h2>🤝 Connect with me on <a href="https://www.linkedin.com/in/andersoq/">LinkedIn</a>!</h2>
