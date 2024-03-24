@@ -22,5 +22,6 @@
 
 - CyberQuest SP2024
 - NCAE-C Regionals SP2024, Team Captain, MVP (4th Place)
+- picoCTF 2024
 
 <h2>🤝 Connect with me on <a href="https://www.linkedin.com/in/andersoq/">LinkedIn</a>!</h2>
