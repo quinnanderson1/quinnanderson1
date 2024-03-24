@@ -18,10 +18,11 @@
 - ITIL v4 Foundations
 - LPI Linux Essentials
 
-<h2>⚔️ Competitions</h2>
+<h2>⚔️ Competitions & Challenges</h2>
 
 - CyberQuest SP2024
 - NCAE-C Regionals SP2024, Team Captain, MVP (4th Place)
 - picoCTF 2024
+- NICE Challenge #193
 
 <h2>🤝 Connect with me on <a href="https://www.linkedin.com/in/andersoq/">LinkedIn</a>!</h2>
