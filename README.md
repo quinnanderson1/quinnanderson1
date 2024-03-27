@@ -3,13 +3,14 @@
 
 <h2>🛡️ Cybersecurity Projects:</h2>
 
-- <b>Practice Competition Lab</b>
+- <b>NCAE Competition Lab</b>
   - [Creating the Network Environment](https://github.com/quinnanderson1/Competition_Lab_Creation)
   - [Creating an HTTP Server (Apache2)](https://github.com/quinnanderson1/Competition_Lab_HTTP)
   - [Configuring SSL for an HTTP Server (Apache2)](https://github.com/quinnanderson1/Competition_Lab_SSL)
 
 <h2>📜 Certifications</h2>
 
+- CompTIA CySA+
 - CompTIA Security+
 - CompTIA Network+
 - CompTIA Project+
@@ -20,9 +21,9 @@
 
 <h2>⚔️ Competitions & Challenges</h2>
 
-- CyberQuest SP2024
-- NCAE-C Regionals SP2024, Team Captain, MVP (4th Place)
-- picoCTF 2024
-- NICE Challenge #193
+- CyberQuest SP2024, <i>Qualified for Invite, 80% Correct</i>
+- NCAE-C Regionals SP2024, <i>Team Captain, voted MVP, 4th Place</i>
+- picoCTF 2024, <i>Top 30% Globally & Undergrads, 1475 pts</i>
+- NICE Challenge <i>#193</i>
 
 <h2>🤝 Connect with me on <a href="https://www.linkedin.com/in/andersoq/">LinkedIn</a>!</h2>
