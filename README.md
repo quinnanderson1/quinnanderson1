@@ -7,6 +7,7 @@
   - [Creating the Network Environment](https://github.com/quinnanderson1/Competition_Lab_Creation)
   - [Creating an HTTP Server (Apache2)](https://github.com/quinnanderson1/Competition_Lab_HTTP)
   - [Configuring SSL for an HTTP Server (Apache2)](https://github.com/quinnanderson1/Competition_Lab_SSL)
+- <b>[100 Days of Python](https://github.com/quinnanderson1/100DaysofPython)</b>
 
 <h2>⚔️ Competitions & Challenges</h2>
 
