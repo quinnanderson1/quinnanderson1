@@ -13,7 +13,7 @@
 - CyberQuest SP2024, <i>Qualified for Invite, 80% Correct</i>
 - NCAE-C Regionals SP2024, <i>Team Captain, voted MVP, 4th Place</i>
 - picoCTF 2024, <i>Top 30% Globally & Undergrads, 1475 pts</i>
-- NICE Challenge <i>#193</i>
+- NICE Challenges
 
 <h2>📜 Certifications</h2>
 
