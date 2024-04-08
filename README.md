@@ -11,9 +11,10 @@
 
 <h2>⚔️ Competitions & Challenges</h2>
 
-- CyberQuest SP2024, <i>Qualified for Invite, 80% Correct</i>
+- National Cyber League (NCL) SP2024, <i>Individuals, Top 7.2%, 1900pts</i>
 - NCAE-C Regionals SP2024, <i>Team Captain, voted MVP, 4th Place</i>
 - picoCTF 2024, <i>Top 30% Globally & Undergrads, 1475 pts</i>
+- CyberQuest SP2024, <i>Qualified for Invite, 80% Correct</i>
 - NICE Challenges
 
 <h2>📜 Certifications</h2>
