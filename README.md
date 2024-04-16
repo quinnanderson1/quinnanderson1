@@ -19,7 +19,7 @@
 
 <h2>📜 Certifications</h2>
 
-- CompTIA Pentest+ (In-Progress)
+- CompTIA Pentest+
 - CompTIA CySA+
 - CompTIA Security+
 - CompTIA Network+
