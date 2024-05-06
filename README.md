@@ -26,7 +26,7 @@
 - CompTIA Network+
 - CompTIA Project+
 - CompTIA A+
-- ISC(2) Associate (SSCP)
+- ISC(2) SSCP
 - ITIL v4 Foundations
 - LPI Linux Essentials
 
