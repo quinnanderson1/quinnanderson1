@@ -14,6 +14,7 @@
 - National Cyber League (NCL) SP2024, <i>Individuals, Top 7.2%, 1900pts</i>
 - NCAE-C Regionals SP2024, <i>Team Captain, voted MVP, 4th Place</i>
 - National Cyber League (NCL) SP2024, <i>Team, Top 11%, 1095pts</i>
+- DoD Cyber Sentinel Skills Challenge 2024, <i>Top 48%, 300 pts</i>
 - picoCTF 2024, <i>Top 30% Globally & Undergrads, 1475 pts</i>
 - CyberQuest SP2024, <i>Qualified for Invite, 80% Correct</i>
 - NICE Challenges
