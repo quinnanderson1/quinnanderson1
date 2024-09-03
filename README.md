@@ -23,10 +23,12 @@
 
 - CompTIA Pentest+
 - CompTIA CySA+
+- CompTIA Cloud+
 - CompTIA Security+
 - CompTIA Network+
 - CompTIA Project+
 - CompTIA A+
+- CompTIA ITF+
 - ISC(2) SSCP
 - ITIL v4 Foundations
 - LPI Linux Essentials
