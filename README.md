@@ -1,7 +1,7 @@
 <h1>Hello! I'm Quinn!</h1>
-<h3>👾 Cybersecurity Practitioner 🔐</h3>
+<h3>👾 IT Instructor, Cybersecurity Practitioner, Cloud Enthusiast 🔐</h3>
 
-<h2>🛡️ Cybersecurity Projects</h2>
+<h2>🛡️ Projects</h2>
 
 - <b>NCAE Competition Lab</b>
   - [Creating the Network Environment](https://github.com/quinnanderson1/Competition_Lab_Creation)
@@ -24,6 +24,7 @@
 - CompTIA Pentest+
 - CompTIA CySA+
 - CompTIA Cloud+
+- Microsoft Azure Fundamentals (AZ-900)
 - CompTIA Security+
 - CompTIA Network+
 - CompTIA Project+
