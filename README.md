@@ -25,6 +25,7 @@
 - CompTIA CySA+
 - CompTIA Cloud+
 - Microsoft Azure Fundamentals (AZ-900)
+- Microsoft 365 Fundamentals (MS-900)
 - CompTIA Security+
 - CompTIA Network+
 - CompTIA Project+
