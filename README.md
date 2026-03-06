@@ -26,6 +26,8 @@
 - CompTIA Cloud+
 - Microsoft Azure Fundamentals (AZ-900)
 - Microsoft 365 Fundamentals (MS-900)
+- Microsoft Azure AI Fundamentals (AI-900)
+- Microsoft Power Platform Fundamentals (PL-900)
 - CompTIA Security+
 - CompTIA Network+
 - CompTIA Project+
@@ -34,5 +36,6 @@
 - ISC(2) SSCP
 - ITIL v4 Foundations
 - LPI Linux Essentials
+- CertNexus GenAIBiz (GAZ-100)
 
 <h2>🤝 Connect with me on <a href="https://www.linkedin.com/in/andersoq/">LinkedIn</a>!</h2>
